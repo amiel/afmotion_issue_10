@@ -7,6 +7,9 @@ $ motion -v
 2.2
 $ ruby -v
 ruby 1.9.3p392 (2013-02-22 revision 39386) [x86_64-darwin12.3.0]
+$ xcodebuild -version
+Xcode 4.6.2
+Build version 4H1003
 ```
 
 [Gemfile.lock](https://github.com/amiel/afmotion_issue_10/blob/master/Gemfile.lock) and
